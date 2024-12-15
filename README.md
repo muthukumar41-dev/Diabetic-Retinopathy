@@ -1,7 +1,3 @@
-Here’s a comprehensive **README.md** file content for your project:
-
----
-
 # **Diabetic Retinopathy Detection System**  
 
 A deep learning-based application to detect diabetic retinopathy from retinal images. This project utilizes a trained neural network model integrated into an interactive Streamlit interface for efficient and accurate predictions.
